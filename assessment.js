@@ -41,7 +41,7 @@ else {
 }
 
 
-}
+
 
 /*
 3. Write a function called longestString that has a single parameter called strs.
